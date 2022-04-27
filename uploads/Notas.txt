@@ -1,0 +1,8 @@
+Mejoras del proyecto.
+
+1.Validacion de los correos de los colaboradores con una base actualizada de cada usuario y validar que tenga @.coopel.com antes de verificar la base de datos
+2.Encontrar en la documentacion de SENTIM-API para la funcion completa del analisis
+3.Desplegar los resultados con una imagen facil de identificar, en lugar de texto
+4.Temporizador de borrado de celdas de la base de datos donde se guarda el texto sin analizar
+5.Boton para recuperar contraseña
+6.Mejorar estilo 
